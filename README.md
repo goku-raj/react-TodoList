@@ -1,6 +1,6 @@
 # React + Vite
 
-Website: https://todo-list-reactjs-vite.netlify.app <br>
+Website: https://vite-reacts-todo-list.netlify.app <br>
 ToDo list using react-redux <br>
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
